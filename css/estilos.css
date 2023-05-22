@@ -1,14 +1,19 @@
 p {
-    color:darkorange;
-    background-color:aqua;
+    color:rgb(48, 44, 39);
+
 }
 body {
-    background-color:aqua;
+    background-color:rgb(232, 247, 247);
 }
 
 h1 {
-    color:darkorange;
+    color:rgb(46, 42, 37);
 }
 h2 {
     color:black
+}
+
+table, td, th {
+    color:rgb(46, 46, 36);
+    border: 1px solid;
 }
